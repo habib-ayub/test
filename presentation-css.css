@@ -1,0 +1,149 @@
+/* Base styles */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+/* Search bar styles */
+.search-bar {
+    padding: 1rem;
+    background: #f5f5f5;
+    text-align: center;
+}
+
+.search-bar input {
+    width: 80%;
+    max-width: 600px;
+    padding: 0.75rem;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 1rem;
+}
+
+/* Suggestion panel styles */
+.suggestion-panel {
+    padding: 1rem;
+    background: #fff;
+    border-bottom: 1px solid #ddd;
+}
+
+.suggestion-section {
+    margin-bottom: 1.5rem;
+}
+
+.suggestion-section h3 {
+    margin-bottom: 0.5rem;
+    color: #333;
+}
+
+.suggestion-section ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.suggestion-section li {
+    padding: 0.5rem;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+.suggestion-section li:hover {
+    background-color: #f0f0f0;
+}
+
+.image-suggestions {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    gap: 1rem;
+}
+
+.image-suggestion {
+    cursor: pointer;
+    text-align: center;
+}
+
+.image-suggestion img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 4px;
+}
+
+.image-suggestion span {
+    display: block;
+    margin-top: 0.5rem;
+    font-size: 0.9rem;
+    color: #666;
+}
+
+/* Loading overlay styles */
+.loading-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(255, 255, 255, 0.9);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+}
+
+.loading-content {
+    text-align: center;
+}
+
+.loading-spinner {
+    width: 40px;
+    height: 40px;
+    border: 4px solid #f3f3f3;
+    border-top: 4px solid #3498db;
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+.loading-message {
+    margin-top: 1rem;
+    color: #333;
+}
+
+/* Toast notification styles */
+.toast {
+    position: fixed;
+    bottom: 2rem;
+    right: 2rem;
+    padding: 1rem 2rem;
+    border-radius: 4px;
+    color: #fff;
+    z-index: 1000;
+}
+
+.toast-success {
+    background-color: #2ecc71;
+}
+
+.toast-error {
+    background-color: #e74c3c;
+}
+
+.slide-in {
+    animation: slideIn 0.3s ease-out;
+}
+
+@keyframes slideIn {
+    from {
+        transform: translateX(100%);
+        opacity: 0;
+    }
+    to {
+        transform: translateX(0);
+        opacity: 1;
+    }
+}

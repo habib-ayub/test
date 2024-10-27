@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Smart Presentation Studio</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/9.1.2/marked.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
+</head>
+<body>
+    <header>
+        <div class="search-bar">
+            <input type="text" id="topicSearch" placeholder="Enter a topic to generate presentation...">
+        </div>
+    </header>
+
+    <main>
+        <div id="suggestionPanel" class="suggestion-panel"></div>
+        <div id="presentationContainer" class="presentation-container">
+            <!-- Slides will be dynamically inserted here -->
+        </div>
+    </main>
+
+    <script src="api.js"></script>
+    <script src="generator.js"></script>
+    <script src="assistant.js"></script>
+    <script src="presentation.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
