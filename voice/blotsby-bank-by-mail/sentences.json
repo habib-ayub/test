@@ -2,9 +2,9 @@
  "model": "heygen/heygen-voice-1-turbo:free",
  "voice": "lucian",
  "sr": 44100,
- "seconds": 25.45,
- "words": 90,
- "wpm": 212,
+ "seconds": 29.72,
+ "words": 87,
+ "wpm": 176,
  "sentences": [
   {
    "text": "A whole bank, shipped one box at a time.",
@@ -12,34 +12,34 @@
    "t1": 2.519
   },
   {
-   "text": "[pause] In nineteen sixteen, a town in Utah wanted a bank, and it didn't hire a builder.",
-   "t0": 2.719,
-   "t1": 7.4978
+   "text": "In nineteen sixteen, a town in Utah wanted a bank, and it didn't hire a builder.",
+   "t0": 3.419,
+   "t1": 7.7045
   },
   {
    "text": "It ordered one by mail.",
-   "t0": 7.6978,
-   "t1": 8.7383
+   "t0": 8.6045,
+   "t1": 9.6451
   },
   {
-   "text": "Thousands of bricks were packed into parcels in Salt Lake City and posted out, box after box, [pause] until a whole bank had arrived one package at a time.",
-   "t0": 8.9383,
-   "t1": 16.8798
+   "text": "Thousands of bricks were packed into parcels in Salt Lake City and posted out, box after box, until a whole bank had arrived one package at a time.",
+   "t0": 10.5451,
+   "t1": 18.7361
   },
   {
    "text": "The clerks handling those boxes must have had questions.",
-   "t0": 17.0798,
-   "t1": 19.9354
+   "t0": 19.6361,
+   "t1": 22.4917
   },
   {
    "text": "The bank still got built.",
-   "t0": 20.1354,
-   "t1": 21.1729
+   "t0": 23.3917,
+   "t1": 24.4293
   },
   {
-   "text": "[pause] Sometimes the strangest way to build something is to let the post office carry it.",
-   "t0": 21.3729,
-   "t1": 25.4471
+   "text": "Sometimes the strangest way to build something is to let the post office carry it.",
+   "t0": 25.3293,
+   "t1": 29.7247
   }
  ]
 }
