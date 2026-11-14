@@ -31,26 +31,26 @@
    "sec": 5.7
   },
   {
-   "text": "[after a long pause] Lizzie got five hundred dollars.",
+   "text": "[after a long pause] Parker Brothers paid Lizzie five hundred dollars.",
    "t0": 20.023,
-   "t1": 23.4,
-   "sec": 3.38
+   "t1": 23.58,
+   "sec": 3.56
   },
   {
-   "text": "[deadpan, dry humor] The warning came true.",
-   "t0": 23.55,
-   "t1": 25.737,
-   "sec": 2.19
+   "text": "[deadpan, dry humor] One player took everything, just like her game.",
+   "t0": 23.73,
+   "t1": 27.032,
+   "sec": 3.3
   },
   {
    "text": "Next: the volcano that only spared a prisoner.",
-   "t0": 25.887,
-   "t1": 28.794,
+   "t0": 27.182,
+   "t1": 30.089,
    "sec": 2.91
   }
  ],
- "seconds": 28.79,
- "wpm": 158.4,
+ "seconds": 30.09,
+ "wpm": 163.5,
  "voice": "lucian",
- "words": 76
+ "words": 82
 }
