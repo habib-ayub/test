@@ -1,0 +1,56 @@
+{
+ "sentences": [
+  {
+   "text": "[deadpan, dry humor] Monopoly was invented to make you hate landlords.",
+   "t0": 0.0,
+   "t1": 3.356,
+   "sec": 3.36
+  },
+  {
+   "text": "In nineteen oh four, a woman named Lizzie invented it as The Landlord's Game.",
+   "t0": 3.506,
+   "t1": 7.913,
+   "sec": 4.41
+  },
+  {
+   "text": "One player buys all the land, everyone else pays rent, and goes broke.",
+   "t0": 8.063,
+   "t1": 11.917,
+   "sec": 3.85
+  },
+  {
+   "text": "It was a warning, and people loved it.",
+   "t0": 12.067,
+   "t1": 14.021,
+   "sec": 1.95
+  },
+  {
+   "text": "Then a salesman, Charles Darrow, copied it, sold it to Parker Brothers, and became a millionaire.",
+   "t0": 14.171,
+   "t1": 19.873,
+   "sec": 5.7
+  },
+  {
+   "text": "[after a long pause] Lizzie got five hundred dollars.",
+   "t0": 20.023,
+   "t1": 23.4,
+   "sec": 3.38
+  },
+  {
+   "text": "[deadpan, dry humor] The warning came true.",
+   "t0": 23.55,
+   "t1": 25.737,
+   "sec": 2.19
+  },
+  {
+   "text": "Next: the volcano that only spared a prisoner.",
+   "t0": 25.887,
+   "t1": 28.794,
+   "sec": 2.91
+  }
+ ],
+ "seconds": 28.79,
+ "wpm": 158.4,
+ "voice": "lucian",
+ "words": 76
+}
