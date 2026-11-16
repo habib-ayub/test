@@ -1,0 +1,48 @@
+{
+ "sentences": [
+  {
+   "text": "[matter-of-fact] Thousands of flights in America just got cancelled because the air traffic system went down.",
+   "t0": 0.0,
+   "t1": 4.884
+  },
+  {
+   "text": "Seventy years ago, that system was a man pushing little plastic boats across a table.",
+   "t0": 5.084,
+   "t1": 9.722
+  },
+  {
+   "text": "Pilots radioed in where they were, and in a room far away, a man slid a marker called a shrimp boat across a giant map.",
+   "t0": 9.972,
+   "t1": 17.225
+  },
+  {
+   "text": "So what happened when you flew somewhere that wasn't on the map?",
+   "t0": 17.575,
+   "t1": 20.842
+  },
+  {
+   "text": "Nothing, because out there pilots just looked out the window and hoped.",
+   "t0": 21.042,
+   "t1": 25.016
+  },
+  {
+   "text": "[lowering their voice] In nineteen fifty-six, two airliners hit each other over the Grand Canyon, and a hundred and twenty-eight people died.",
+   "t0": 25.416,
+   "t1": 32.29
+  },
+  {
+   "text": "That crash is the reason the FAA exists.",
+   "t0": 32.49,
+   "t1": 35.399
+  },
+  {
+   "text": "[matter-of-fact] And plenty of towers still write your flight on a paper strip, so honestly, I'd trust the shrimp boats over that computer.",
+   "t0": 35.849,
+   "t1": 42.501
+  }
+ ],
+ "seconds": 42.5,
+ "wpm": 180.7,
+ "voice": "lucian",
+ "words": 128
+}
