@@ -1,48 +1,48 @@
 {
  "sentences": [
   {
-   "text": "[solemn] Every April fourteenth, India's firefighters remember the day a ship rained gold on Bombay.",
+   "text": "[solemn] A ship once rained gold bars on Bombay, and India's firefighters still remember it every April fourteenth.",
    "t0": 0.0,
-   "t1": 6.398
+   "t1": 7.216
   },
   {
-   "text": "In nineteen forty-four, a ship called the Fort Stikine sat in the docks with fourteen hundred tons of explosives and crates of gold.",
-   "t0": 6.648,
-   "t1": 13.809
+   "text": "It was nineteen forty-four, and the Fort Stikine sat in the docks with fourteen hundred tons of explosives and crates of gold for the bank.",
+   "t0": 7.466,
+   "t1": 14.927
   },
   {
    "text": "Then cotton in the hold caught fire, and firemen pumped in so much water it started to boil.",
-   "t0": 14.009,
-   "t1": 19.643
+   "t0": 15.127,
+   "t1": 20.761
   },
   {
    "text": "So why didn't anyone get the explosives off?",
-   "t0": 19.993,
-   "t1": 22.516
+   "t0": 21.111,
+   "t1": 23.633
   },
   {
-   "text": "Nobody gave the order in time, and that afternoon it blew up.",
-   "t0": 22.716,
-   "t1": 26.263
+   "text": "The orders to unload came too late, and that afternoon the ship blew up.",
+   "t0": 23.833,
+   "t1": 27.872
   },
   {
    "text": "[lowering their voice] More than eight hundred people died, sixty-six of them firemen, and the blast threw gold bars across the city.",
-   "t0": 26.663,
-   "t1": 33.502
+   "t0": 28.272,
+   "t1": 35.111
   },
   {
-   "text": "Workers were still pulling those bars out of the harbour mud in two thousand eleven, and every one went back to the government.",
-   "t0": 33.752,
-   "t1": 39.359
+   "text": "Workers were still pulling those bars out of the harbour mud in two thousand eleven, and they had to hand every one to the government.",
+   "t0": 35.361,
+   "t1": 41.068
   },
   {
    "text": "[matter-of-fact] I think whoever found one should have been allowed to keep it.",
-   "t0": 39.859,
-   "t1": 43.098
+   "t0": 41.568,
+   "t1": 44.806
   }
  ],
- "seconds": 43.1,
- "wpm": 179.6,
+ "seconds": 44.81,
+ "wpm": 184.8,
  "voice": "lucian",
- "words": 129
+ "words": 138
 }
