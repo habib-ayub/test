@@ -1,0 +1,48 @@
+{
+ "sentences": [
+  {
+   "text": "[solemn] Every April fourteenth, India's firefighters remember the day a ship rained gold on Bombay.",
+   "t0": 0.0,
+   "t1": 6.398
+  },
+  {
+   "text": "In nineteen forty-four, a ship called the Fort Stikine sat in the docks with fourteen hundred tons of explosives and crates of gold.",
+   "t0": 6.648,
+   "t1": 13.809
+  },
+  {
+   "text": "Then cotton in the hold caught fire, and firemen pumped in so much water it started to boil.",
+   "t0": 14.009,
+   "t1": 19.643
+  },
+  {
+   "text": "So why didn't anyone get the explosives off?",
+   "t0": 19.993,
+   "t1": 22.516
+  },
+  {
+   "text": "Nobody gave the order in time, and that afternoon it blew up.",
+   "t0": 22.716,
+   "t1": 26.263
+  },
+  {
+   "text": "[lowering their voice] More than eight hundred people died, sixty-six of them firemen, and the blast threw gold bars across the city.",
+   "t0": 26.663,
+   "t1": 33.502
+  },
+  {
+   "text": "Workers were still pulling those bars out of the harbour mud in two thousand eleven, and every one went back to the government.",
+   "t0": 33.752,
+   "t1": 39.359
+  },
+  {
+   "text": "[matter-of-fact] I think whoever found one should have been allowed to keep it.",
+   "t0": 39.859,
+   "t1": 43.098
+  }
+ ],
+ "seconds": 43.1,
+ "wpm": 179.6,
+ "voice": "lucian",
+ "words": 129
+}
