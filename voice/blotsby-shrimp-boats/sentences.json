@@ -26,23 +26,23 @@
    "t1": 25.016
   },
   {
-   "text": "[lowering their voice] In nineteen fifty-six, two airliners hit each other over the Grand Canyon, and a hundred and twenty-eight people died.",
+   "text": "[lowering their voice] Then in nineteen fifty-six, two airliners over the Grand Canyon never saw each other coming, and a hundred and twenty-eight people died.",
    "t0": 25.416,
-   "t1": 32.29
+   "t1": 33.801
   },
   {
-   "text": "That crash is the reason the FAA exists.",
-   "t0": 32.49,
-   "t1": 35.399
+   "text": "America built the FAA because of that crash.",
+   "t0": 34.001,
+   "t1": 36.929
   },
   {
    "text": "[matter-of-fact] And plenty of towers still write your flight on a paper strip, so honestly, I'd trust the shrimp boats over that computer.",
-   "t0": 35.849,
-   "t1": 42.501
+   "t0": 37.379,
+   "t1": 44.032
   }
  ],
- "seconds": 42.5,
- "wpm": 180.7,
+ "seconds": 44.03,
+ "wpm": 178.5,
  "voice": "lucian",
- "words": 128
+ "words": 131
 }
