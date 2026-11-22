@@ -1,0 +1,85 @@
+{
+ "sentences": [
+  {
+   "text": "Charlotte Bront\u00eb and her sisters bet their savings on the hottest tech stock of the eighteen forties.",
+   "t0": 0.0,
+   "t1": 5.138,
+   "voice": "lucian"
+  },
+  {
+   "text": "This week, people are asking if AI stocks are a bubble.",
+   "t0": 5.438,
+   "t1": 9.175,
+   "voice": "lucian"
+  },
+  {
+   "text": "Back then, the hot tech was trains.",
+   "t0": 9.375,
+   "t1": 11.456,
+   "voice": "lucian"
+  },
+  {
+   "text": "You see, Emily Bront\u00eb ran the family money, and she bought into the Railway King, George Hudson.",
+   "t0": 11.706,
+   "t1": 17.11,
+   "voice": "lucian"
+  },
+  {
+   "text": "Their fifty-pound shares shot up to a hundred and twenty, and their income nearly tripled.",
+   "t0": 17.31,
+   "t1": 22.542,
+   "voice": "lucian"
+  },
+  {
+   "text": "Charlotte wanted to sell.",
+   "t0": 22.792,
+   "t1": 24.104,
+   "voice": "lucian"
+  },
+  {
+   "text": "Her sisters said no, so she stayed in with them.",
+   "t0": 24.254,
+   "t1": 26.696,
+   "voice": "lucian"
+  },
+  {
+   "text": "So how was the Railway King paying everyone?",
+   "t0": 26.996,
+   "t1": 29.576,
+   "voice": "lucian"
+  },
+  {
+   "text": "With the money new shareholders had just put in.",
+   "t0": 29.826,
+   "t1": 31.928,
+   "voice": "lucian"
+  },
+  {
+   "text": "Then the bubble popped, and the shares fell to twenty.",
+   "t0": 32.228,
+   "t1": 35.174,
+   "voice": "lucian"
+  },
+  {
+   "text": "Some say Charlotte's money from Jane Eyre went down with them.",
+   "t0": 35.374,
+   "t1": 38.313,
+   "voice": "lucian"
+  },
+  {
+   "text": "One sister saw it coming. Two didn't.",
+   "t0": 38.663,
+   "t1": 40.999,
+   "voice": "lucian"
+  },
+  {
+   "text": "Which one is your friend?",
+   "t0": 41.199,
+   "t1": 42.405,
+   "voice": "lucian"
+  }
+ ],
+ "seconds": 42.41,
+ "wpm": 185.4,
+ "voice": "lucian"
+}
