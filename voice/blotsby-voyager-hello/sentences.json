@@ -1,0 +1,74 @@
+{
+ "sentences": [
+  {
+   "text": "[solemn] Voyager One just became the first thing we've sent a full light day from Earth.",
+   "t0": 0.0,
+   "t1": 4.756,
+   "voice": "lucian"
+  },
+  {
+   "text": "[pause] And the first voice on it was hiding a Nazi past.",
+   "t0": 5.356,
+   "t1": 8.143,
+   "voice": "lucian"
+  },
+  {
+   "text": "You see, it carries a golden record, a message for any aliens who find it.",
+   "t0": 8.343,
+   "t1": 12.964,
+   "voice": "lucian"
+  },
+  {
+   "text": "Track one is the UN's leader, Kurt Waldheim, promising peace and friendship.",
+   "t0": 13.164,
+   "t1": 17.792,
+   "voice": "lucian"
+  },
+  {
+   "text": "[lowering their voice] So what was he hiding?",
+   "t0": 17.992,
+   "t1": 20.385,
+   "voice": "lucian"
+  },
+  {
+   "text": "For decades, he said he'd spent the war studying law after a wound.",
+   "t0": 20.585,
+   "t1": 24.399,
+   "voice": "lucian"
+  },
+  {
+   "text": "Then reporters found his files.",
+   "t0": 24.599,
+   "t1": 26.455,
+   "voice": "lucian"
+  },
+  {
+   "text": "He'd served on a German army staff that helped ship tens of thousands of Jews to the death camps.",
+   "t0": 26.655,
+   "t1": 31.661,
+   "voice": "lucian"
+  },
+  {
+   "text": "Historians never proved he killed anyone. But he knew, and he lied.",
+   "t0": 31.861,
+   "t1": 35.868,
+   "voice": "lucian"
+  },
+  {
+   "text": "America banned him. Austria made him president anyway.",
+   "t0": 36.068,
+   "t1": 38.895,
+   "voice": "lucian"
+  },
+  {
+   "text": "[after a long pause] And Voyager can't be called back. A liar is still saying hello for all of us.",
+   "t0": 39.395,
+   "t1": 46.22,
+   "voice": "lucian"
+  }
+ ],
+ "seconds": 46.22,
+ "wpm": 170.1,
+ "voice": "lucian",
+ "model": "heygen/heygen-voice-1-turbo:free"
+}
