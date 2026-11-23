@@ -1,0 +1,80 @@
+{
+ "sentences": [
+  {
+   "text": "[slightly surprised] This wedding toast is named after a man drinking a stranger's bathwater.",
+   "t0": 0.0,
+   "t1": 4.379,
+   "voice": "lucian"
+  },
+  {
+   "text": "[pause] And yes, the word really means toast.",
+   "t0": 4.979,
+   "t1": 7.545,
+   "voice": "lucian"
+  },
+  {
+   "text": "You see, people used to drop spiced toast into wine, to make cheap wine taste better.",
+   "t0": 7.745,
+   "t1": 12.256,
+   "voice": "lucian"
+  },
+  {
+   "text": "Now, in the town of Bath, crowds watched people soak in hot public pools.",
+   "t0": 12.456,
+   "t1": 17.471,
+   "voice": "lucian"
+  },
+  {
+   "text": "One day, a famous beauty stood in the water.",
+   "t0": 17.671,
+   "t1": 20.193,
+   "voice": "lucian"
+  },
+  {
+   "text": "[in disbelief] A man scooped a glass of her bathwater, and drank it to her health.",
+   "t0": 20.393,
+   "t1": 24.842,
+   "voice": "lucian"
+  },
+  {
+   "text": "So what did his drunk friend do?",
+   "t0": 25.042,
+   "t1": 27.097,
+   "voice": "lucian"
+  },
+  {
+   "text": "He said forget the drink, he wanted the toast. She was what flavoured it. Then he tried to jump in after her.",
+   "t0": 27.297,
+   "t1": 32.965,
+   "voice": "lucian"
+  },
+  {
+   "text": "At least, that's how a London magazine told it.",
+   "t0": 33.165,
+   "t1": 35.63,
+   "voice": "lucian"
+  },
+  {
+   "text": "After that, whoever everyone drank to was called the toast.",
+   "t0": 35.83,
+   "t1": 39.144,
+   "voice": "lucian"
+  },
+  {
+   "text": "[lowering their voice] So every wedding toast is named after a man drinking a stranger's bathwater.",
+   "t0": 39.344,
+   "t1": 44.469,
+   "voice": "lucian"
+  },
+  {
+   "text": "And no, that was never romantic.",
+   "t0": 44.969,
+   "t1": 47.208,
+   "voice": "lucian"
+  }
+ ],
+ "seconds": 47.21,
+ "wpm": 176.7,
+ "voice": "lucian",
+ "model": "heygen/heygen-voice-1-turbo:free"
+}
