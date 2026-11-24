@@ -1,0 +1,67 @@
+{
+ "sentences": [
+  {
+   "text": "Everyone thinks lemmings jump off cliffs together.",
+   "t0": 0.0,
+   "t1": 2.547,
+   "voice": "lucian"
+  },
+  {
+   "text": "The ones on camera were pushed.",
+   "t0": 2.967,
+   "t1": 4.896,
+   "voice": "lucian"
+  },
+  {
+   "text": "In nineteen fifty-eight, a nature film crew wanted lemmings marching to their deaths.",
+   "t0": 5.316,
+   "t1": 9.916,
+   "voice": "lucian"
+  },
+  {
+   "text": "But real lemmings don't do that, and they don't even live where the crew was filming.",
+   "t0": 10.336,
+   "t1": 14.133,
+   "voice": "lucian"
+  },
+  {
+   "text": "So the crew bought lemmings from local kids, and ran them on a snowy spinning table to look like thousands.",
+   "t0": 14.553,
+   "t1": 20.378,
+   "voice": "lucian"
+  },
+  {
+   "text": "Then they pushed them off a cliff into a river, and the narrator called it nature.",
+   "t0": 20.798,
+   "t1": 25.088,
+   "voice": "lucian"
+  },
+  {
+   "text": "So who made the film?",
+   "t0": 25.638,
+   "t1": 26.909,
+   "voice": "lucian"
+  },
+  {
+   "text": "Walt Disney's studio. And it won an Oscar.",
+   "t0": 27.329,
+   "t1": 29.98,
+   "voice": "lucian"
+  },
+  {
+   "text": "Schools showed it for years, and millions of kids believed it.",
+   "t0": 30.4,
+   "t1": 33.878,
+   "voice": "lucian"
+  },
+  {
+   "text": "Should they give the award back?",
+   "t0": 34.428,
+   "t1": 36.258,
+   "voice": "lucian"
+  }
+ ],
+ "seconds": 36.26,
+ "wpm": 178.7,
+ "voice": "lucian"
+}
