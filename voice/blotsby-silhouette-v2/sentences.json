@@ -1,0 +1,67 @@
+{
+ "sentences": [
+  {
+   "text": "This man tried to tax the rich, so Paris turned his name into an insult.",
+   "t0": 0.0,
+   "t1": 3.831,
+   "voice": "lucian"
+  },
+  {
+   "text": "[slightly surprised] And you still say it.",
+   "t0": 4.481,
+   "t1": 6.497,
+   "voice": "lucian"
+  },
+  {
+   "text": "France was broke from a war in seventeen fifty-nine, so the king handed the money to \u00c9tienne de Silhouette.",
+   "t0": 6.997,
+   "t1": 12.69,
+   "voice": "lucian"
+  },
+  {
+   "text": "So he taxed what the rich showed off, like servants and fancy carriages.",
+   "t0": 13.19,
+   "t1": 17.271,
+   "voice": "lucian"
+  },
+  {
+   "text": "But who got the last laugh?",
+   "t0": 17.871,
+   "t1": 19.083,
+   "voice": "lucian"
+  },
+  {
+   "text": "The nobles. They called anything cheap \u00e0 la Silhouette.",
+   "t0": 19.683,
+   "t1": 22.403,
+   "voice": "lucian"
+  },
+  {
+   "text": "Then black paper cut-outs, the cheap portrait, got his name too.",
+   "t0": 22.903,
+   "t1": 26.645,
+   "voice": "lucian"
+  },
+  {
+   "text": "He lasted eight months.",
+   "t0": 27.145,
+   "t1": 28.591,
+   "voice": "lucian"
+  },
+  {
+   "text": "And today, there's no painting of him left. Not even a silhouette.",
+   "t0": 29.091,
+   "t1": 32.955,
+   "voice": "lucian"
+  },
+  {
+   "text": "He tried to make the rich pay. Was he cheap, or was he right?",
+   "t0": 33.555,
+   "t1": 36.694,
+   "voice": "lucian"
+  }
+ ],
+ "seconds": 36.69,
+ "wpm": 176.6,
+ "voice": "lucian"
+}
