@@ -1,0 +1,48 @@
+{
+ "sentences": [
+  {
+   "text": "[slightly surprised] Why is there a little green man running on every exit sign?",
+   "t0": 0.0,
+   "t1": 3.718,
+   "voice": "lucian"
+  },
+  {
+   "text": "You see, in nineteen seventy-two, an Osaka department store filled with smoke, and a hundred and eighteen people never found the way out.",
+   "t0": 4.168,
+   "t1": 12.194,
+   "voice": "lucian"
+  },
+  {
+   "text": "So Japan held a contest, and thousands of drawings were tested in rooms full of smoke.",
+   "t0": 12.644,
+   "t1": 18.185,
+   "voice": "lucian"
+  },
+  {
+   "text": "So why does he look like he's barely jogging?",
+   "t0": 18.585,
+   "t1": 21.562,
+   "voice": "lucian"
+  },
+  {
+   "text": "[matter-of-fact] The designer drew him sprinting, and the judges made him slow down so you wouldn't panic.",
+   "t0": 21.912,
+   "t1": 26.598,
+   "voice": "lucian"
+  },
+  {
+   "text": "Now almost the whole world uses him, except America, which still writes EXIT in red, the color for stop.",
+   "t0": 27.048,
+   "t1": 33.264,
+   "voice": "lucian"
+  },
+  {
+   "text": "The newest building code finally lets America switch, and I think it should.",
+   "t0": 33.714,
+   "t1": 37.755,
+   "voice": "lucian"
+  }
+ ],
+ "sr": 32000,
+ "voice": "lucian"
+}
