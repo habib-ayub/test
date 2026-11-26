@@ -1,0 +1,72 @@
+{
+ "sentences": [
+  {
+   "text": "[deadpan, dry humor] Your phone's at six percent, and Rome just threw you into the arena.",
+   "t0": 0.0,
+   "t1": 4.329,
+   "voice": "lucian"
+  },
+  {
+   "text": "A gladiator lifts his sword, so you think it's a fight to the death.",
+   "t0": 4.579,
+   "t1": 7.89,
+   "voice": "lucian"
+  },
+  {
+   "text": "If you rented a gladiator and he died, you paid his owner fifty times the fee.",
+   "t0": 8.14,
+   "t1": 12.778,
+   "voice": "lucian"
+  },
+  {
+   "text": "So most fights ended with nobody dead, and a referee with a stick could stop it.",
+   "t0": 12.998,
+   "t1": 17.11,
+   "voice": "lucian"
+  },
+  {
+   "text": "So why is the crowd screaming his name?",
+   "t0": 17.41,
+   "t1": 19.71,
+   "voice": "lucian"
+  },
+  {
+   "text": "He's a celebrity, and legend says fans bought his sweat as face cream.",
+   "t0": 19.93,
+   "t1": 24.0,
+   "voice": "lucian"
+  },
+  {
+   "text": "You grab a selfie with him, and the crowd goes wild.",
+   "t0": 24.25,
+   "t1": 27.451,
+   "voice": "lucian"
+  },
+  {
+   "text": "Then the referee points at the other gate.",
+   "t0": 27.701,
+   "t1": 29.912,
+   "voice": "lucian"
+  },
+  {
+   "text": "[lowering their voice] Rome's untrained prisoners were cheap, so nobody cared if they died.",
+   "t0": 30.162,
+   "t1": 34.849,
+   "voice": "lucian"
+  },
+  {
+   "text": "[deadpan, dry humor] And you came free.",
+   "t0": 35.199,
+   "t1": 37.357,
+   "voice": "lucian"
+  },
+  {
+   "text": "[after a long pause] Comment LION for part four.",
+   "t0": 38.007,
+   "t1": 40.898,
+   "voice": "lucian"
+  }
+ ],
+ "sr": 32000,
+ "voice": "lucian"
+}
