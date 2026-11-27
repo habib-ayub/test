@@ -1,80 +1,54 @@
 {
  "sentences": [
   {
-   "text": "[slightly surprised] This wedding toast started with a man drinking a stranger's bathwater.",
+   "text": "[slightly amused] Every toast you've ever raised started with a man drinking a woman's bathwater.",
    "t0": 0.0,
-   "t1": 4.381,
+   "t1": 5.213,
    "voice": "lucian"
   },
   {
-   "text": "[pause] And yes, it's named after actual toast.",
-   "t0": 4.981,
-   "t1": 7.708,
+   "text": "You see, in Shakespeare's day, people dropped a slice of spiced toast into their wine, to flavor it.",
+   "t0": 5.563,
+   "t1": 10.877,
    "voice": "lucian"
   },
   {
-   "text": "You see, the English used to drop spiced toast into wine, to make cheap wine taste better.",
-   "t0": 7.908,
-   "t1": 13.039,
+   "text": "Then in Bath, a famous beauty sat in the public bath, surrounded by fans.",
+   "t0": 11.177,
+   "t1": 16.093,
    "voice": "lucian"
   },
   {
-   "text": "Now, in the town of Bath, crowds watched people soak in hot public pools.",
-   "t0": 13.239,
-   "t1": 17.995,
+   "text": "One of them dipped his glass into her bathwater, and drank to her health.",
+   "t0": 16.393,
+   "t1": 19.99,
    "voice": "lucian"
   },
   {
-   "text": "One day, a famous beauty stood in the water.",
-   "t0": 18.195,
-   "t1": 20.757,
+   "text": "[curious] But why call that a toast?",
+   "t0": 20.39,
+   "t1": 22.959,
    "voice": "lucian"
   },
   {
-   "text": "[in disbelief] A man scooped a glass of her bathwater, and drank it to her health.",
-   "t0": 20.957,
-   "t1": 25.511,
+   "text": "A drunk man tried to jump in, saying he didn't want the drink, he wanted the toast.",
+   "t0": 23.259,
+   "t1": 27.882,
    "voice": "lucian"
   },
   {
-   "text": "So what did his drunk friend do?",
-   "t0": 25.711,
-   "t1": 27.447,
+   "text": "She flavored the water, like toast in wine. And from then on, drinking to someone was a toast.",
+   "t0": 28.282,
+   "t1": 33.734,
    "voice": "lucian"
   },
   {
-   "text": "He said forget the drink, he wanted the toast, and tried to jump in after her.",
-   "t0": 27.647,
-   "t1": 31.73,
-   "voice": "lucian"
-  },
-  {
-   "text": "At least, that's how a London magazine told it.",
-   "t0": 31.93,
-   "t1": 34.299,
-   "voice": "lucian"
-  },
-  {
-   "text": "After that, the woman everyone drank to was called the toast.",
-   "t0": 34.499,
-   "t1": 37.7,
-   "voice": "lucian"
-  },
-  {
-   "text": "[lowering their voice] So every wedding toast copies a man drinking a stranger's bathwater.",
-   "t0": 37.9,
-   "t1": 42.55,
-   "voice": "lucian"
-  },
-  {
-   "text": "And no, that was never romantic.",
-   "t0": 43.05,
-   "t1": 45.176,
+   "text": "[deadpan] The bathwater guy: romantic, or the grossest man in England?",
+   "t0": 34.184,
+   "t1": 37.893,
    "voice": "lucian"
   }
  ],
- "seconds": 45.18,
- "wpm": 175.3,
- "voice": "lucian",
- "model": "heygen/heygen-voice-1-turbo:free"
+ "sr": 32000,
+ "voice": "lucian"
 }
