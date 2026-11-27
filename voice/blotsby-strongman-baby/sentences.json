@@ -1,0 +1,60 @@
+{
+ "sentences": [
+  {
+   "text": "[slightly amused] Sweden's most famous strongman was hired to hold a baby.",
+   "t0": 0.0,
+   "t1": 4.168,
+   "voice": "lucian"
+  },
+  {
+   "text": "Tamil Nadu just gave new dads fifteen days off.",
+   "t0": 4.468,
+   "t1": 7.648,
+   "voice": "lucian"
+  },
+  {
+   "text": "Sweden did it first, in nineteen seventy-four, and almost no dad took it.",
+   "t0": 7.898,
+   "t1": 12.054,
+   "voice": "lucian"
+  },
+  {
+   "text": "Staying home with a baby made you look soft.",
+   "t0": 12.304,
+   "t1": 14.767,
+   "voice": "lucian"
+  },
+  {
+   "text": "So the government put a weightlifter called Hoa-Hoa on a poster, cradling a baby.",
+   "t0": 15.067,
+   "t1": 19.444,
+   "voice": "lucian"
+  },
+  {
+   "text": "[curious] Did it work? Barely.",
+   "t0": 19.794,
+   "t1": 22.031,
+   "voice": "lucian"
+  },
+  {
+   "text": "[matter-of-fact] The baby wasn't even his, and Hoa-Hoa never took a day off himself.",
+   "t0": 22.251,
+   "t1": 26.752,
+   "voice": "lucian"
+  },
+  {
+   "text": "So Sweden saved a month just for dads, and if he skipped it, the family lost it.",
+   "t0": 27.052,
+   "t1": 31.978,
+   "voice": "lucian"
+  },
+  {
+   "text": "Now Swedish dads take a third of all the leave, and the strongman calls those forced months undemocratic.",
+   "t0": 32.298,
+   "t1": 38.426,
+   "voice": "lucian"
+  }
+ ],
+ "sr": 32000,
+ "voice": "lucian"
+}
