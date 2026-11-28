@@ -1,0 +1,80 @@
+{
+ "sentences": [
+  {
+   "text": "[deadpan, dry humor] Your phone's at three percent, and a lion just walked out of that gate.",
+   "t0": 0.0,
+   "t1": 3.973,
+   "voice": "lucian"
+  },
+  {
+   "text": "The crowd runs for a tunnel marked vomitorium.",
+   "t0": 4.223,
+   "t1": 6.978,
+   "voice": "lucian"
+  },
+  {
+   "text": "You know this one. Rich Romans threw up in there, so they could keep eating.",
+   "t0": 7.228,
+   "t1": 10.836,
+   "voice": "lucian"
+  },
+  {
+   "text": "You hit the flashlight, and it's just a hallway.",
+   "t0": 11.086,
+   "t1": 13.436,
+   "voice": "lucian"
+  },
+  {
+   "text": "[curious] So where's the puke?",
+   "t0": 13.686,
+   "t1": 16.193,
+   "voice": "lucian"
+  },
+  {
+   "text": "There isn't any. A vomitorium was the exit.",
+   "t0": 16.443,
+   "t1": 19.163,
+   "voice": "lucian"
+  },
+  {
+   "text": "Vomit means spew. It spewed crowds onto the street.",
+   "t0": 19.413,
+   "t1": 23.436,
+   "voice": "lucian"
+  },
+  {
+   "text": "Victorian writers made the puke room up.",
+   "t0": 23.686,
+   "t1": 25.896,
+   "voice": "lucian"
+  },
+  {
+   "text": "Romans did throw up at feasts, though.",
+   "t0": 26.146,
+   "t1": 28.1,
+   "voice": "lucian"
+  },
+  {
+   "text": "One writer said they vomit so they can eat, and eat so they can vomit.",
+   "t0": 28.35,
+   "t1": 32.279,
+   "voice": "lucian"
+  },
+  {
+   "text": "Then the tunnel spews you out at the guards' feet. One percent.",
+   "t0": 32.529,
+   "t1": 36.038,
+   "voice": "lucian"
+  },
+  {
+   "text": "[after a long pause] [lowering their voice] Comment ESCAPE for part five.",
+   "t0": 36.688,
+   "t1": 39.449,
+   "voice": "lucian"
+  }
+ ],
+ "seconds": 39.45,
+ "wpm": 171.9,
+ "voice": "lucian",
+ "sr": 32000
+}
